@@ -1,0 +1,10 @@
+﻿  StdAfx.cpp
+  JoinToPline.cpp
+  GeometricOperations.cpp
+  DocData.cpp
+  acrxEntryPoint.cpp
+  正在生成代码...
+    正在创建库 x64\Debug\sdkIntersectDelect.lib 和对象 x64\Debug\sdkIntersectDelect.exp
+rxapi.lib(libinit.obj) : warning LNK4099: 未找到 PDB“rxapi.pdb”(使用“rxapi.lib(libinit.obj)”或在“C:\Users\think\Desktop\相交地块扣除\x64\Debug\rxapi.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  IntersectDelect.vcxproj -> C:\Users\think\Desktop\相交地块扣除\x64\Debug\sdkIntersectDelect.arx
+  IntersectDelect.vcxproj -> C:\Users\think\Desktop\相交地块扣除\x64\Debug\sdkIntersectDelect.pdb (Full PDB)
